@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+h1 {
+  color: Indigo;
+}
+
 img {
   border: 1px solid black;
   width: 300px;
